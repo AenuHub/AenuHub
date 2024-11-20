@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey everyone! 👋 Welcome to **AenuHub** 🚀  
 
-<!--
-**AenuHub/AenuHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 **Passionate about coding and building games**  
+- 🌱 Currently exploring **C#** and sharpening my **Python** skills  
+- 🎯 Always eager to learn, collaborate, and create amazing projects  
+
+---
+
+## 🛠️ Projects & Repositories  
+
+| Project Name | Description | Technologies |  
+|--------------|-------------|--------------|  
+| [**PyAsteroids**](https://github.com/AenuHub/PyAsteroids) | A classic asteroids game in Python | `Pygame`, `Python` |  
+| [**PySnake**](https://github.com/AenuHub/PySnake) | A modern take on the Snake game | `Pygame`, `Python` |  
+| [**PyPong**](https://github.com/AenuHub/PyPong) | Pong game built with Python | `Pygame`, `Python` |  
+
+and more in my repos..
+
+🎮 **Check them out and leave a ⭐ if you like them!**
+
+
