@@ -16,7 +16,8 @@
 |--------------|-------------|--------------|  
 | [**PyAsteroids**](https://github.com/AenuHub/PyAsteroids) | A classic asteroids game in Python | `Pygame`, `Python` |  
 | [**PySnake**](https://github.com/AenuHub/PySnake) | A modern take on the Snake game | `Pygame`, `Python` |  
-| [**PyPong**](https://github.com/AenuHub/PyPong) | Pong game built with Python | `Pygame`, `Python` |  
+| [**PyPong**](https://github.com/AenuHub/PyPong) | Pong game built with Python | `Pygame`, `Python` | 
+| [**PyCross**](https://github.com/AenuHub/PyCross) | Turtle road crossing game | `Pygame`, `Python` |
 
 and more in my repos..
 
