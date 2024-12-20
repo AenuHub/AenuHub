@@ -3,6 +3,8 @@
 ---
 
 ## 👩‍💻 About Me
+- Hey again! I'm Mehmet Özsığırtmaç, a passionate software developer with a keen interest in back-end technologies, and game development.
+- Through AenuHub, I share my journey of learning, building, and creating innovative solutions.
 
 - 🌟 **Passionate about coding and building games**  
 - 🌱 Currently exploring **C#** and sharpening my **Python** skills  
