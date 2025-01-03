@@ -20,6 +20,7 @@
 | [**PySnake**](https://github.com/AenuHub/PySnake) | A modern take on the Snake game | `Pygame`, `Python` |  
 | [**PyPong**](https://github.com/AenuHub/PyPong) | Pong game built with Python | `Pygame`, `Python` | 
 | [**PyCross**](https://github.com/AenuHub/PyCross) | Turtle road crossing game | `Pygame`, `Python` |
+| [**True/False Quiz**](https://github.com/AenuHub/true-false-quiz) | True/False quiz game | `Pygame`, `Python` |
 
 and more in my repos..
 
