@@ -16,11 +16,11 @@
 
 | Project Name | Description | Technologies |  
 |--------------|-------------|--------------|  
-| [**PyAsteroids**](https://github.com/AenuHub/PyAsteroids) | A classic asteroids game in Python | `Pygame`, `Python` |  
-| [**PySnake**](https://github.com/AenuHub/PySnake) | A modern take on the Snake game | `Pygame`, `Python` |  
-| [**PyPong**](https://github.com/AenuHub/PyPong) | Pong game built with Python | `Pygame`, `Python` | 
-| [**PyCross**](https://github.com/AenuHub/PyCross) | Turtle road crossing game | `Pygame`, `Python` |
-| [**True/False Quiz**](https://github.com/AenuHub/true-false-quiz) | True/False quiz game | `Pygame`, `Python` |
+| [**PyAsteroids**](https://github.com/AenuHub/PyAsteroids) | A classic asteroids game in Python | `Python` |  
+| [**PySnake**](https://github.com/AenuHub/PySnake) | A modern take on the Snake game | `Python` |  
+| [**PyPong**](https://github.com/AenuHub/PyPong) | Pong game built with Python | `Python` | 
+| [**PyCross**](https://github.com/AenuHub/PyCross) | Turtle road crossing game | `Python` |
+| [**True/False Quiz**](https://github.com/AenuHub/true-false-quiz) | True/False quiz game | `Python` |
 
 and more in my repos..
 
