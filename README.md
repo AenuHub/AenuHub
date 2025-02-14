@@ -7,7 +7,7 @@
 - Through AenuHub, I share my journey of learning, building, and creating innovative solutions.
 
 - 🌟 **Passionate about coding and building games**  
-- 🌱 Currently developing in **C#** and sharpening my **Python** skills, along with **Java** knowledge 
+- 🌱 Currently developing in **C#** and sharpening my **Java** skills, along with **Python** knowledge 
 - 🎯 Always eager to learn, collaborate, and create amazing projects  
 
 ---
